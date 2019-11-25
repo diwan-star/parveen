@@ -14,11 +14,15 @@ public class ir {
 		driver.get("http://www.irctc.co.in/");
 		WebElement obj=driver.findElement(By.xpath("//input[@autocomplete='off'][5]"));
 		obj.sendKeys("parveen");
+<<<<<<< HEAD
 		System.out.println("my name is parveen");
 		System.out.println("my name is parveen");
 		System.out.println("my name is parveen");
 
 		
+=======
+		//fjfgfg
+>>>>>>> kaamil
 		
 	
 		
